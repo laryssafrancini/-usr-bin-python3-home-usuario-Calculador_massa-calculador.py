@@ -1,4 +1,4 @@
-# -usr-bin-python3-home-usuario-Calculador_massa-calculador.py
+#Calculador_massa-calculador.py
 Calculador_IMC
 def calcular_imc(peso, altura):
     # Calcula o IMC usando a fórmula
